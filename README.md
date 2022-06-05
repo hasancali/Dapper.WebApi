@@ -5,7 +5,7 @@ Controller for main model
 
 * **Method:**
  `POST`
-​**/api​/v1​/Dapper.WebApi​/Product​/Create**
+**​​/api​/v1​/Dapper.WebApi​/Product​/Create**
 Create model with dapper
 
 * **Method:**
