@@ -1,4 +1,5 @@
 # Dapper.WebApi
+.Net Core 6.0 api operations with Dapper
 
 ## Product 
 Controller for main model
