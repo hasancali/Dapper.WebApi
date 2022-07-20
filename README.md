@@ -1,11 +1,12 @@
 # Dapper.WebApi
+.Net Core 6.0 api operations with Dapper
 
 ## Product 
 Controller for main model
 
 * **Method:**
  `POST`
-​**/api​/v1​/Dapper.WebApi​/Product​/Create**
+**​​/api​/v1​/Dapper.WebApi​/Product​/Create**
 Create model with dapper
 
 * **Method:**
